@@ -20,6 +20,19 @@
 ######################
 
 ====================
+0.73.1 Release Notes
+====================
+
+- Bug fixes:
+  - Fix https://issues.redhat.com/browse/RHEL-27657
+  - subject-py: Fix memory leak
+
+- Others:
+  - MergedTransaction: Calculate RPM difference between two same versions as no-op
+  - Onboard packit tests
+  - Add virtual destructor to TransactionItem
+
+====================
 0.73.0 Release Notes
 ====================
 
