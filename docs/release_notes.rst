@@ -20,6 +20,20 @@
 ######################
 
 ====================
+0.73.2 Release Notes
+====================
+
+- Bug fixes:
+  - MergedTransaction: Fix invalid memory access when dropping items
+  - ConfigParser: fix use-out-of-scope leaks
+  - Fix "microdnf cannot reinstall curl-minimal"
+  - Fix up some comments in addCountmeFlag()
+  - Fix countme bucket calculation
+
+- Others:
+  - Add tests for shell-style variable expansion
+
+====================
 0.73.1 Release Notes
 ====================
 
