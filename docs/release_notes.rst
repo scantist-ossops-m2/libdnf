@@ -20,6 +20,14 @@
 ######################
 
 ====================
+0.73.3 Release Notes
+====================
+
+- Support colon in username, use LRO_USERNAME and LRO_PASSWORD
+- Set pool flag to fix pool_addfileprovides_queue() without filelists.xml
+- Fix a memory leak in glob_for_cachedir()
+
+====================
 0.73.2 Release Notes
 ====================
 
