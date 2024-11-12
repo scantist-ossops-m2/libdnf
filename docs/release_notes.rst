@@ -20,6 +20,12 @@
 ######################
 
 ====================
+0.73.4 Release Notes
+====================
+
+- Set `POOL_FLAG_ADDFILEPROVIDESFILTERED` only when not loading filelists
+
+====================
 0.73.3 Release Notes
 ====================
 
